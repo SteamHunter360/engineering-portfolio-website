@@ -281,3 +281,10 @@ a {
     grid-template-columns: 1fr;
   }
 }
+
+.contact-buttons {
+  margin-top: 28px;
+  display: flex;
+  gap: 16px;
+  flex-wrap: wrap;
+}
